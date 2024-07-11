@@ -1,0 +1,17 @@
+body{
+     background: #34547A;
+    
+}
+
+.wrap1{
+    border: 2px solid rgb(255, 255, 255);
+    height: 80px;
+    width: 160px;
+    margin-top: 0px;
+    border: none;
+}
+.wrap2{
+    display: flex;
+    gap: 52px;
+
+}
